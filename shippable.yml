@@ -4,7 +4,7 @@
 # Version number
     node_js:
       - 0.10
-      - 0.1
+      - 0.12
 
 # The path for Xunit to output test reports
     env:
