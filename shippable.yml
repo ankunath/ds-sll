@@ -24,8 +24,4 @@
         - ls shippable/codecoverage
         - ls shippable/cod
         - ls shippable/
-        
-    
-    integrations:
-      notifications:
-        
+       
