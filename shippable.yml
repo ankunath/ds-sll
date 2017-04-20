@@ -23,5 +23,4 @@
         - ./node_modules/.bin/istanbul report cobertura --dir  shippable/codecoverage/
         - ls shippable/codecoverage
         - ls shippable/cod
-        - ls shippable/
        
